@@ -3,8 +3,8 @@
 #Datenbank Variabeln
 DBHOST=localhost
 DBNAME=M300
-DBUSER=root
-DBPASSWD=root
+DBUSER=m300
+DBPASSWD=berger
 DBTSCHUELER=user
 TABLE1=Basketball
 TABLE2=Fusball

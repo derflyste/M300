@@ -2,10 +2,10 @@
 
 # vi: set ft=ruby :
 
-#Configuration der Box "M300-VM-LB2"
+#Configuration der Box "web"
 Vagrant.configure("2") do |config|
 
-  config.vm.define "M300-VM-LB2" do |VMLB2|
+  config.vm.define "web" do |web|
      # Instllation einer Ubuntu Instance
      config.vm.box = "generic/ubuntu1804"
       # VM Specs
