@@ -2,19 +2,20 @@
 
 # vi: set ft=ruby :
 
-#Configuration der Box "WEB"
+#Configuration der Box "M300-VM-LB2"
 Vagrant.configure("2") do |config|
 
-  config.vm.define "web" do |web|
-     # Eine Ubuntu Instance Installieren
+  config.vm.define "M300-VM-LB2" do |M300-VM-LB2|
+     # Instllation einer Ubuntu Instance
      config.vm.box = "generic/ubuntu1804"
-      # Der VM 1024 Mb RAM
+      # VM Specs
         config.vm.provider "virtualbox" do |vb|
-          vb.memory = "1024"
+        vb.memory = "2048"
+        vb.cpus = "2"
 
      end
 
-     # Konfiguration der weiterleitung von Http und mysql
+     # Http und mysql weiterleitung Konfiguration 
       config.vm.network "forwarded_port", guest: 80, host: 8080
       config.vm.network "forwarded_port", guest: 3306, host: 8081
       web.vm.provision "shell", path: "setup/installation"
