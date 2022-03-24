@@ -31,10 +31,10 @@ mysql -uroot -p$DBPASSWD <<%EOF%
 	CREATE DATABASE $DBNAME;
 	USE $DBNAME;
 	CREATE TABLE $TABLE1 (PersonID INT(50), Vorname VARCHAR(50), Name VARCHAR(50), PRIMARY Key (PersonID));
-	INSERT INTO $TABLE1 VALUE ("1","Kevin","Durant",);
-	INSERT INTO $TABLE1 VALUE ("2","Kyrie","Irving",);
-	INSERT INTO $TABLE1 VALUE ("3","James","Harden",);
-	INSERT INTO $TABLE1 VALUE ("4","Lebron","James",);
+	INSERT INTO $TABLE1 VALUE ("1","Kevin","Durant");
+	INSERT INTO $TABLE1 VALUE ("2","Kyrie","Irving");
+	INSERT INTO $TABLE1 VALUE ("3","James","Harden");
+	INSERT INTO $TABLE1 VALUE ("4","Lebron","James");
 	quit
 %EOF%	
 
