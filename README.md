@@ -91,11 +91,13 @@ Um die Umgebung zulöschen müssen folgende Punkte beachtet werden:
 ## Anleitung
 |Vorgehen    		   |Bild                   |
 |--------------------------|--------------------------|
-|   |`vagrant up`              |
-|            |`vagrant halt`            |
-|                   |`vagrant destroy`         |
-||`vagrant reload`          |
-
+| 1. Auf den Link http://localhost:8080/phpmyadmin gehen  		|          |
+| 2. Anmeldefenster ausfühlen mit Daten unterhalb 	  		|          |
+| 3. Befindet man sich auf die Hauptseite                 		|          |
+| 4. Auf der linken Seite im Menü auf M300 drücken	  		|          |
+| 5. Nachdem taucht eine Zeile unterhalb mit Basketball	  		|          |
+| 6. Wenn man darauf drückt kommt eine Fehlermeldung diese Ignorieren	|          |
+| 7. Nachdem sieht man oberhalb die erstellte Tabelle mit den Daten	|          |
 
 <a name="benutzernamen-und-passwoerter"></a>
 ## Benutzernamen und Passwörter
