@@ -1,21 +1,23 @@
 # M300
 
-## Tag 2
+## Inhaltsverzeichnis
 
-Checkliste
+- [Einleitung](#einleitung)
+    - [Voraussetzungen](#voraussetzungen)
+- [Umgebung](#umgebung)
+	- [Shares](#shares)
+- [Umgebung steuern](#umgebung-steuern)
+    - [Hochfahren](#hochfahren)
+    - [Herunterfahren](#herunterfahren)
+    - [Umgebung löschen](#umgebung-löschen)
+    - [Befehl-Tabelle Vagrant](#befehl-tabelle-vagrant)
+- [Via SSH auf die VMs zugreifen](#via-ssh-auf-die-vms-zugreifen)
+- [Benutzernamen und Passwörter](#benutzernamen-und-passwörter)
+    - [Apache](#apache)
+    - [MYsql](#mysql)
+- [Zugreifen auf den Webserver](#zugreifen-auf-den-webservern)
+- [Exit](#exit)
+- [Quellen](#quellen)
 
-- Erstellen eines Vagrant Files [ ]
-- Vagrant Testen [ ]
-- Vagrant Script mit update/upgrade ergänzen [ ]
-- V-Script mit einer Webserver Konfiguration erstellen [ ]
+---
 
-Definition Vagrant
-
-
-## Tag 3
-
-Beginn LB2
-
-Die LB2 handelt sich um Dienste die man über Vagrant installiert. Ich habe mich entschieden Apache und Mysql zu installieren. 
-Die Installation muss automatisiert werden. Alle Schrite sollte ausgeführt werden nachdem man "vagrant up" eingegeben hat.
-Als erstes habe ich Apache Webserver und Mysql informiert. 
