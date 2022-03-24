@@ -105,8 +105,8 @@ Um die Umgebung zulöschen müssen folgende Punkte beachtet werden:
 <a name="ssh"></a>
 ### Webserver
 
-Benutzername: M300
-Passwort: berger
+- Benutzername: M300
+- Passwort: berger
 
 
 <a name="quellen"></a>
