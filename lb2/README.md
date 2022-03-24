@@ -103,7 +103,7 @@ Um die Umgebung zulöschen müssen folgende Punkte beachtet werden:
 ## Benutzernamen und Passwörter
 
 <a name="ssh"></a>
-### WEbserver
+### Webserver
 
 Benutzername: M300
 Passwort: berger
@@ -111,6 +111,6 @@ Passwort: berger
 
 <a name="quellen"></a>
 ## Quellen
-[Samba installation](https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20(Command-line%20interface/Linux%20Terminal)%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!)
+[Apache_installieren](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-de)
 
-[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+[Mysql_installieren](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-de)
