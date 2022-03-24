@@ -91,13 +91,13 @@ Um die Umgebung zulöschen müssen folgende Punkte beachtet werden:
 ## Anleitung
 |Vorgehen    		   |Bild                   |
 |--------------------------|--------------------------|
-| 1. Auf den Link http://localhost:8080/phpmyadmin gehen  		|          |
-| 2. Anmeldefenster ausfühlen mit Daten unterhalb 	  		|          |
-| 3. Befindet man sich auf die Hauptseite                 		|          |
-| 4. Auf der linken Seite im Menü auf M300 drücken	  		|          |
-| 5. Nachdem taucht eine Zeile unterhalb mit Basketball	  		|          |
-| 6. Wenn man darauf drückt kommt eine Fehlermeldung diese Ignorieren	|          |
-| 7. Nachdem sieht man oberhalb die erstellte Tabelle mit den Daten	|          |
+| 1. Auf den Link http://localhost:8080/phpmyadmin gehen  		|![phpmyadmin](phpmyadmin.png)|
+| 2. Anmeldefenster ausfühlen mit Daten unterhalb 	  		|![Anmeldefenster](Anmeldefenster.png)|
+| 3. Befindet man sich auf die Hauptseite                 		|![Hauptseite](Hauptseite.png)|
+| 4. Auf der linken Seite im Menü auf M300 drücken	  		|![Menü](Menü.png)|
+| 5. Nachdem taucht eine Zeile unterhalb mit Basketball	  		|![Dropdown](Dropdown.png)|
+| 6. Wenn man darauf drückt kommt eine Fehlermeldung diese Ignorieren	|![Ignorieren](Ignorieren.png)|
+| 7. Nachdem sieht man oberhalb die erstellte Tabelle mit den Daten	|![Tabelle](Tabelle.png)|
 
 <a name="benutzernamen-und-passwoerter"></a>
 ## Benutzernamen und Passwörter
